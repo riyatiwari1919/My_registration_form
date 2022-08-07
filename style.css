@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+    color: powderblue;
+    
+}
+#h1{
+    color:yellow;
+    text-align: center;
+    text-decoration: underline;
+    font-size: 50px;
+}
+#table{
+    border: 0px;
+    height: 400px;
+    width: 380px; 
+    margin-left: 470px;
+}
+.row{
+    text-align: center;
+    font-size: 25px;
+}
+.roe{
+    text-align: center;
+    font-size: 25px;
+}
+#submit{
+    margin-left: 758px;
+    font-size: 20px;
+}
